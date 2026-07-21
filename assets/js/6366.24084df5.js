@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunknkp_catalog_cli=globalThis.webpackChunknkp_catalog_cli||[]).push([[6366],{86366(c,a,e){e.d(a,{createArchitectureServices:()=>l.S});var l=e(38980);e(87960)}}]);

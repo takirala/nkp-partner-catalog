@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunknkp_catalog_cli=globalThis.webpackChunknkp_catalog_cli||[]).push([[2634],{30192(a,c,l){l.r(c),l.d(c,{default:()=>s});var t=l(56347),n=l(86025),o=l(74848);function s(){return(0,o.jsx)(t.rd,{to:(0,n.Ay)("/docs")})}}}]);
